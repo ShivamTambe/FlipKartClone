@@ -17,6 +17,10 @@ const SearchIconWrapper = styled(Box)`
 `;
 
 
+
+
+
+
 const InputSearchBase = styled(InputBase)`
   font-size: unset;
   width: 100%;
